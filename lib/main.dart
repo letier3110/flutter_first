@@ -14,6 +14,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+print("1");
+
 class VoiceHome extends StatefulWidget {
   @override
   State<VoiceHome> createState() => _VoiceHomeState();
