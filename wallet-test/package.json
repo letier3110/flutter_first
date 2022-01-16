@@ -1,8 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "@airgap/beacon-sdk": "^2.3.8",
-    "@taquito/signer": "^11.1.0",
-    "@taquito/taquito": "^11.1.0"
-  }
-}
