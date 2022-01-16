@@ -7,7 +7,6 @@ fn main() {
 }
 
 fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
-    println!("{:?}, {}", nums, target);
     let mut mymap: HashMap<i32, i32> = HashMap::new();
     let mut c = 0;
     for a in nums.iter() {
